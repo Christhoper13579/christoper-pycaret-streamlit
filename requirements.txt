@@ -1,4 +1,3 @@
 pycaret==2.2
 streamlit
-textblob 
 nltk
